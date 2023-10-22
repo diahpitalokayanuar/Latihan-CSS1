@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: thistle;
+}
+
+.container {
+    margin: 50px auto 50px auto;
+    padding-top: 30px;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#judul{
+    background-color:rgb(253, 252, 166);
+    color:rgb(97, 78, 110);
+    font-size: 18px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: dotted 4px rgb(120, 140, 170);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.intro {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.satu {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.satu .img-kotak {
+    display: flex;
+    margin: 20px auto;
+    height: auto;
+    padding: 7px;
+    border: 2px solid thistle;
+    border-radius: 7px;
+    width: 400px;
+}
+
+.dua {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.dua .img-louis {
+    display: flex;
+    margin: 20px auto;
+    height: auto;
+    padding: 7px;
+    border: 2px solid thistle;
+    border-radius: 7px;
+    width: 400px;
+}
+
+.tiga {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.tiga .img-dadi {
+    display: flex;
+    margin: 20px auto;
+    height: auto;
+    padding: 7px;
+    border: 2px solid thistle;
+    border-radius: 7px;
+    width: 400px;
+}
+
+.empat {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.empat .img-nako {
+    display: flex;
+    margin: 20px auto;
+    height: auto;
+    padding: 7px;
+    border: 2px solid thistle;
+    border-radius: 7px;
+    width: 400px;
+}
+
+.lima {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.lima .img-bajawa {
+    display: flex;
+    margin: 20px auto;
+    height: auto;
+    padding: 7px;
+    border: 2px solid thistle;
+    border-radius: 7px;
+    width: 400px;
+}
+
+.closure p {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+.footer {
+    width: 30%;
+    margin: 30px auto;
+    padding: 15px 0;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 25px;
+    padding-bottom: 40px;
+}
+
+.footer h3 {
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer h4 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer .img-profile {
+    width: 150px;
+    padding: 5px;
+    border-radius: 50%;
+    border: 2px solid #e5c1ee;
+}
